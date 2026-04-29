@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#1565C0</color>      <!-- Deep Blue -->
+    <color name="accent">#2E7D32</color>       <!-- Green -->
+    <color name="background">#F5F7FA</color>   <!-- Light -->
+    <color name="card">#FFFFFF</color>
+    <color name="textDark">#212121</color>
+</resources>

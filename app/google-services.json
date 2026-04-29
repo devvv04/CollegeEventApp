@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992573189665",
+    "project_id": "mriirs-college-event",
+    "storage_bucket": "mriirs-college-event.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992573189665:android:f0b92100d0e7727497fd60",
+        "android_client_info": {
+          "package_name": "com.example.collegeeventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtxkCNEV5OSUUDy_NP15Jx3AZChB3Zk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
